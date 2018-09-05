@@ -1,0 +1,11 @@
+
+clear
+use ³É¼¨±í
+n=0
+
+do while .not.eof()
+if ³É¼¨>60
+n=n+1
+endif
+skip
+enddo
